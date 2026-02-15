@@ -70,3 +70,4 @@ smart-energy-dashboard/
 
 Dibuat dengan ❤️ untuk monitoring energi yang lebih baik
 # Energy-Consumtion
+# Energy-Consumtion
